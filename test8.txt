@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 test8
+=======
+test8 myfeature
+>>>>>>> myfeature
 test8 master
